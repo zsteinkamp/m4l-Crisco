@@ -4,7 +4,7 @@ Crisco Note Shortening is a Max for Live MIDI device that allows you to fine-tun
 
 ![How it Looks](images/device.png)
 
-In order to shorten notes, some degree of latency is required since we do not know the note length ahead of time. The amount of latency is selectable between 5ms, 10ms, and 20ms.
+In order to shorten notes, some degree of latency is required since we do not know the note length ahead of time. The amount of lookahead is selectable between 5ms, 10ms, and 20ms.
 
 Thanks to *Marlon* for suggesting the device and helping me understand its value. Marlon makes Psytrance, where precise note-offs are an important part of the genre and micro editing all the notes in a track is tedious. Crisco trades latency for convenience in that regard.
 
@@ -19,7 +19,7 @@ Thanks to *Marlon* for suggesting the device and helping me understand its value
 ## Usage
 
 1) Add this device to a MIDI track.
-2) Dial in a shortening amount. Choose a latency value as low as possible to facilitate the shortening amount. Shortening must be equal to or less than the latency.
+2) Dial in a shortening amount. Choose a Lookahead value as low as possible to facilitate the shortening amount. Shortening must be equal to or less than the Lookahead.
 3) ...
 4) Profit!
 
