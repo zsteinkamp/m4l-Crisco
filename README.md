@@ -19,7 +19,7 @@ Thanks to *Marlon* for suggesting the device and helping me understand its value
 ## Usage
 
 1) Add this device to a MIDI track.
-2) Dial in a shortening amount. Choose a latency value as low as possible to facilitate the shortening amount. Shortening always hasto be equal to or less than the latency.
+2) Dial in a shortening amount. Choose a latency value as low as possible to facilitate the shortening amount. Shortening must be equal to or less than the latency.
 3) ...
 4) Profit!
 
