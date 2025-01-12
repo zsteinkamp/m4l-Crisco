@@ -2,7 +2,7 @@
 
 Crisco Note Shortening is a Max for Live MIDI device that allows you to fine-tune the length of MIDI notes in a track in real time.
 
-![How it Looks](images/device.png)]
+![How it Looks](images/device.png)
 
 In order to shorten notes, some degree of latency is required since we do not know the note length ahead of time. The amount of latency is selectable between 5ms, 10ms, and 20ms.
 
